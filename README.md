@@ -1,4 +1,4 @@
 # Text_Summarization_Using_All_The_Attention_Mech.
 
 This project implements an **abstractive text summarization model** using an Encoder-Decoder architecture </br>
-1. # **LSTM (Long Short-Term Memory)**
+## 1.**LSTM (Long Short-Term Memory)**
